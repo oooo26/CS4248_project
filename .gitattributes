@@ -1,3 +1,4 @@
 models/checkpoints/* filter=lfs diff=lfs merge=lfs -text
 models/history/*.pkl filter=lfs diff=lfs merge=lfs -text
 models/raw_data/*.csv filter=lfs diff=lfs merge=lfs -text
+models/saved_model/*/*.bin filter=lfs diff=lfs merge=lfs -text
