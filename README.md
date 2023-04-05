@@ -2,17 +2,30 @@
 
 4-way document classification on Labeled Unreliable News (LUN) dataset.
 
--   Canvas Q&A: https://canvas.nus.edu.sg/courses/38713/discussion_topics/49999
+- Intermediate Update: [[link]](https://nusu-my.sharepoint.com/:p:/r/personal/e0950247_u_nus_edu/Documents/CS4248%20Intermediate%20Update.pptx?d=wa84d06158fba4ea3b70080c205934458&csf=1&web=1&e=Bv7QjT)
+- Final Report: [[link]](https://www.overleaf.com/1285972979tgtswprdpwdt)
+- Final Report Template: https://www.overleaf.com/read/spjdcnpvcgyk
+- Canvas Q&A: https://canvas.nus.edu.sg/courses/38713/discussion_topics/49999
 
-## Meeting Notes
+## Time Schedule
 
--   **March 18th**
-    -  Internal deadline for models on 31st March
-        - [x]  Preprocessing - Zhehao (ddl: March 19th) 
-        - [ ]  Model1 - Zhehao, Trushti
-            -   Trushti on Glove embedding+LSTM&MLP
-            -   Zhehao on Encoder and decoder model and attention
-            -   Internal (ddl: March 26th)
-        - [ ]  Model2 - RZ, JH
-        - [ ]  Model3 - Sagar
-    -  Report Due on 6th April
+- First Meeting (**February 12th**)
+- Second Meeting (**February 28th**)
+- Intermediate (**March 2rd**)
+- Preprocessing (**March 19th**)
+  - [X] Zhehao - Case folding, Tokenization, etc
+- Model implementation (**March 31st**)
+  - [X] Trushti - Glove embedding+LSTM&MLP
+  - [X] Zhehao - Encoder and decoder model and attention
+  - [X] Rongrong - BiLSTM & small BERT
+  - [X] Junhao - RoBERTa
+  - [X] Sagar - XLNet
+- Report (**April 6th**)
+
+## Team Member
+
+- Zhehao Gu
+- Rongrong Zhan
+- Sagar Sureka
+- Modi Trushti Sanjaybhai
+- Junhao Huang
