@@ -12,3 +12,4 @@ Models:
 - BiLSTM & BERT: `biLSTM_smallBERT.ipynb`;
 - RoBERTa: `RoBERTa.ipynb`;
 - Transformer: `transformer.ipynb`;
+- XLnet
