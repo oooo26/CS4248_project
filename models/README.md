@@ -9,7 +9,7 @@ Preprocess:
 Models:
 
 - Logistic & Naive Bayes: `LogReg_NaiveBayes.ipynb`;
-- BiLSTM & BERT: `biLSTM_smallBERT.ipynb`;
+- LSTM & BERT: `eda_lstm_small_bert.ipynb`;
 - RoBERTa: `RoBERTa.ipynb`;
 - Transformer: `transformer.ipynb`;
-- XLnet
+- XLnet: `xlnet/XLNet.ipynb`
