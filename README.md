@@ -13,10 +13,10 @@
 - Second Meeting (**February 28th**)
 - Intermediate (**March 2rd**)
 - Preprocessing (**March 19th**)
-  - [X] Zhehao - Case folding, Tokenization, etc
+  - [X] Zhehao - Data Preprocessing, data augmentation, etc
 - Model implementation (**March 31st**)
-  - [X] Trushti - Glove embedding+LSTM&MLP
-  - [X] Zhehao - Encoder and decoder model and attention
+  - [X] Trushti - tf-idf based naive bayes and logistic regression
+  - [X] Zhehao - Transformer & Performer
   - [X] Rongrong - BiLSTM & small BERT
   - [X] Junhao - RoBERTa
   - [X] Sagar - XLNet
